@@ -10,7 +10,7 @@
 ## Description
 
 
-![Alt-Text](./starbucks.jpg)
+![Alt-Text](./starbucks.png)
 
 
 
@@ -65,4 +65,4 @@ All of these modules can be installed by using the Anaconda package.
 <a name="additional"></a>
 ### Additional Material:
 
-In the folder ./data you find a compressed version of the data files
+In the archive data.zip you find the data files used in this project
