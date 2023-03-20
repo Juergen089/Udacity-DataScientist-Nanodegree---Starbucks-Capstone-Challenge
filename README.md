@@ -71,12 +71,12 @@ In the archive data.zip you find the data files used in this project
 <a name="license"></a>
 ### Licensing, Authors and Acknowledgements:
 
-• Data Source: Starbucks data provided by Udacity in the project workspace
-• Acknowledgements:
+* Data Source: Starbucks data provided by Udacity in the project workspace
+* Acknowledgements:
 Starbucks for the Dataset credit
 My wife for your endless patience and understanding for the time I spent on this course and the projects (and many other Udacity courses)
-• License: MIT License
-• References:
+* License: MIT License
+* References:
 https://stackoverflow.com/questions/29034928/pandas-convert-a-column-of-list-to-dummies
 https://absentdata.com/pandas/pandas-cut-continuous-to-categorical/
 https://www.skytowner.com/explore/splitting_dictionary_into_separate_columns_in_pandas_dataframe
