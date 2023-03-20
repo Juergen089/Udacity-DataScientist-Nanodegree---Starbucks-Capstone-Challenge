@@ -4,7 +4,8 @@
 1. [Description](#description)
 2. [Dependencies](#dependencies)
 3. [Installing and Executing](#execution)
-3. [Additional Material](#additional)
+4. [Additional Material](#additional)
+5. [Licensing, Authors and Acknowledgements](#license)
 
 <a name="descripton"></a>
 ## Description
@@ -66,3 +67,18 @@ All of these modules can be installed by using the Anaconda package.
 ### Additional Material:
 
 In the archive data.zip you find the data files used in this project
+
+<a name="license"></a>
+### Licensing, Authors and Acknowledgements:
+
+• Data Source: Starbucks data provided by Udacity in the project workspace
+• Acknowledgements:
+Starbucks for the Dataset credit
+My wife for your endless patience and understanding for the time I spent on this course and the projects (and many other Udacity courses)
+• License: MIT License
+• References:
+https://stackoverflow.com/questions/29034928/pandas-convert-a-column-of-list-to-dummies
+https://absentdata.com/pandas/pandas-cut-continuous-to-categorical/
+https://www.skytowner.com/explore/splitting_dictionary_into_separate_columns_in_pandas_dataframe
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+https://scikit-learn.org/stable/modules/model_evaluation.html
